@@ -1,8 +1,12 @@
 /**
  * @type {import('next').NextConfig}
  */
+
+const isProd = proccess.env.NODE_ENV = 'production';
+
 const nextConfig = {
   output: 'export',
+  basePath: isProd ? '/vantren' : '',
  
   // Optional: Change links `/me` -> `/me/` and emit `/me.html` -> `/me/index.html`
   // trailingSlash: true,
