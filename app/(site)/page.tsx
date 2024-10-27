@@ -8,8 +8,8 @@ import Pricing from "@/components/Pricing";
 import Contact from "@/components/Contact";
 
 export const metadata: Metadata = {
-  title: "Next.js Starter Template for SaaS Startups - Solid SaaS Boilerplate",
-  description: "This is Home for Solid Pro",
+  title: "Vantren - Diseño y creación de soluciones tecnológicas",
+  description: "En Vantren nos encargamos de integrar a negocios almundo digital mediante soluciones personalizadas.",
   // other metadata
 };
 

@@ -2,8 +2,8 @@ import Signup from "@/components/Auth/Signup";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Sign Up Page - Solid SaaS Boilerplate",
-  description: "This is Sign Up page for Startup Pro",
+  title: "Vantren - Diseño y creación de soluciones tecnológicas",
+  description: "En Vantren nos encargamos de integrar a negocios almundo digital mediante soluciones personalizadas.",
   // other metadata
 };
 

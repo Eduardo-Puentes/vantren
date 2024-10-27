@@ -3,8 +3,8 @@ import Contact from "@/components/Contact";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Support Page - Solid SaaS Boilerplate",
-  description: "This is Support page for Solid Pro",
+  title: "Vantren - Diseño y creación de soluciones tecnológicas",
+  description: "En Vantren nos encargamos de integrar a negocios almundo digital mediante soluciones personalizadas.",
   // other metadata
 };
 

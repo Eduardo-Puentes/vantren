@@ -3,8 +3,9 @@ import SidebarLink from "@/components/Docs/SidebarLink";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Docs Page - Vantren",
-  description: "Documentación para Vantren",
+  title: "Vantren - Diseño y creación de soluciones tecnológicas",
+  description: "En Vantren nos encargamos de integrar a negocios almundo digital mediante soluciones personalizadas.",
+  // other metadata
 };
 
 export default function DocsPage() {
