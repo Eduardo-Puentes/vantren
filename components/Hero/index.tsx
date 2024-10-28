@@ -20,7 +20,7 @@ const Hero = () => {
                 <span className="relative inline-block before:absolute before:bottom-2.5 before:left-0 before:-z-1 before:h-3 before:w-full before:bg-titlebg dark:before:bg-titlebgdark ">
                 futuro {"   "}
                 </span>
-                digital 
+                {"   "} digital 
               </h1>
               <p>
               En <b>Vantren</b>, desarrollamos sitios web personalizados que impulsan tu negocio con tecnología avanzada y diseño responsivo. Desde tiendas en línea hasta landing pages dinámicas, te ofrecemos soluciones digitales innovadoras para destacar en el mundo online.
@@ -94,6 +94,58 @@ const Hero = () => {
           </div>
         </div>
       </section>
+      {/* Action Buttons */}
+      <div className="flex flex-col justify-center items-center gap-4 mt-8 w-full">
+    <h2 className="text-3xl font-bold text-black dark:text-white">
+      Medios de contacto
+    </h2>
+    <div className="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-4 items-center justify-around gap-6 mt-8 w-3/4">
+
+    {/* Schedule Appointment Button */}
+    <div className="w-full items-center flex flex-row justify-center">
+      <a
+        href="https://calendly.com/vantrenlabs/15min"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="inline-flex w-60 items-center justify-center px-4 py-2 bg-primary text-white rounded-full font-medium hover:bg-blue-600"
+      >
+        Consulta Gratuita
+      </a>
+    </div>
+
+    {/* WhatsApp Button */}
+    <div className="w-full items-center flex flex-row justify-center">
+    <a
+      href="https://wa.me/+522214080987?text=Quiero%20mejorar%20mi%20presencia%20digital." // Replace with your WhatsApp number
+      target="_blank"
+      rel="noopener noreferrer"
+      className="inline-flex w-60 items-center justify-center px-4 py-2 bg-green-500 text-white rounded-full font-medium hover:bg-green-600"
+    >
+      Chatear por WhatsApp
+    </a>
+    </div>
+
+    {/* Email Button */}
+    <div className="w-full items-center flex flex-row justify-center">
+    <a
+      href="mailto:yourmail@domainname.com"
+      className="inline-flex w-60 items-center justify-center rounded-full bg-gray-600 px-4 py-2 font-medium text-white duration-300 ease-in-out hover:bg-gray-700 dark:bg-btndark"
+    >
+      Envíar Correo
+    </a>
+    </div>
+
+    {/* Email Button */}
+    <div className="w-full items-center flex flex-row justify-center">
+    <a
+      href="/#contacto"
+      className="inline-flex w-60 items-center justify-center rounded-full bg-black px-4 py-2 font-medium text-white duration-300 ease-in-out hover:bg-blackho dark:bg-btndark"
+    >
+      Envíar Mensaje
+    </a>
+    </div>
+  </div>
+  </div>
     </>
   );
 };

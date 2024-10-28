@@ -210,7 +210,7 @@ const Contact = () => {
     {/* Email Button */}
     <a
       href="mailto:yourmail@domainname.com"
-      className="inline-flex items-center justify-center rounded-full bg-black px-6 py-3 font-medium text-white duration-300 ease-in-out hover:bg-blackho dark:bg-btndark"
+      className="inline-flex items-center justify-center rounded-full bg-black px-4 py-2 font-medium text-white duration-300 ease-in-out hover:bg-blackho dark:bg-btndark"
     >
       Envíar Correo
     </a>
