@@ -173,7 +173,7 @@ const Contact = () => {
       Correo Electrónico
     </h3>
     <p>
-      <a href="mailto:eduardo.puentes.dev@gmail.com">eduardo.puentes.dev@gmail.com</a>
+      <a href="mailto:contacto@vantrenlabs.com">contacto@vantrenlabs.com</a>
     </p>
   </div>
   <div className="mb-7">

@@ -53,10 +53,10 @@ const Footer = () => {
                   contacto
                 </p>
                 <a
-                  href="mailto:eduardo.puentes.dev@gmail.com"
+                  href="mailto:contacto@vantrenlabs.com"
                   className="text-base font-medium text-black dark:text-white"
                 >
-                  eduardo.puentes.dev@gmail.com
+                  contacto@vantrenlabs.com
                 </a>
               </motion.div>
 
