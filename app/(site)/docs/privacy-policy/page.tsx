@@ -58,7 +58,7 @@ export default function PrivacyPolicy() {
 
               <h3>6. Tus Derechos</h3>
               <p>
-                Tienes el derecho de acceder, corregir o eliminar tus datos personales, así como de limitar su procesamiento. Para ejercer estos derechos, contáctanos a través de <a href="mailto:contacto@vantren.com">contacto@vantren.com</a>.
+                Tienes el derecho de acceder, corregir o eliminar tus datos personales, así como de limitar su procesamiento. Para ejercer estos derechos, contáctanos a través de <a href="mailto:contacto@vantrenlabs.com">contacto@vantrenlabs.com</a>.
               </p>
 
               <h3>7. Cambios a la Política de Privacidad</h3>
@@ -69,7 +69,7 @@ export default function PrivacyPolicy() {
               <h3>8. Contacto</h3>
               <p>
                 Si tienes alguna pregunta sobre esta Política de Privacidad, puedes contactarnos en: <br></br> 
-                <strong>Correo:</strong> contacto@vantren.com  <br></br> 
+                <strong>Correo:</strong> contacto@vantrenlabs.com  <br></br> 
                 <strong>Teléfono:</strong> +52 221 408 0987  <br></br> 
               </p>
             </div>

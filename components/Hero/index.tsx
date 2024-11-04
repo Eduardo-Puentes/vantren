@@ -128,7 +128,7 @@ const Hero = () => {
     {/* Email Button */}
     <div className="w-full items-center flex flex-row justify-center">
     <a
-      href="mailto:yourmail@domainname.com"
+      href="mailto:contacto@vantrenlabs.com"
       className="inline-flex w-60 items-center justify-center rounded-full bg-gray-600 px-4 py-2 font-medium text-white duration-300 ease-in-out hover:bg-gray-700 dark:bg-btndark"
     >
       Envíar Correo
