@@ -52,7 +52,7 @@ export default function CookiePolicy() {
               <h3>6. Contacto</h3>
               <p>
                 Para cualquier duda sobre nuestra Política de Uso de Cookies, contáctanos en:  
-                <strong>Correo:</strong> contacto@vantren.com
+                <strong>Correo:</strong> contacto@vantrenlabs.com
               </p>
             </div>
           </div>
